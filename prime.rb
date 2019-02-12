@@ -8,4 +8,3 @@ elsif integer == 2
 elsif integer <=0
   false
 end
-  
