@@ -11,5 +11,5 @@ else
   range = (2..integer).to_a
   range.pop
   range.none? {|number| integer % number == 0}
-end 
+end
 end
